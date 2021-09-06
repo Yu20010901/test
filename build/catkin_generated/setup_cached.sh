@@ -11,5 +11,6 @@ export CMAKE_PREFIX_PATH="/home/yan/test/devel:$CMAKE_PREFIX_PATH"
 export LD_LIBRARY_PATH="/home/yan/test/devel/lib:$LD_LIBRARY_PATH"
 export PKG_CONFIG_PATH="/home/yan/test/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD='/home/yan/test/build'
+export PYTHONPATH="/home/yan/test/devel/lib/python2.7/dist-packages:$PYTHONPATH"
 export ROSLISP_PACKAGE_DIRECTORIES='/home/yan/test/devel/share/common-lisp'
 export ROS_PACKAGE_PATH="/home/yan/test/src:$ROS_PACKAGE_PATH"
